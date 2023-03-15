@@ -1,0 +1,31 @@
+#titulo{
+    color: firebrick;
+    text-align: center;
+    font-size: 40;
+}
+
+#img1{
+     float: left;
+    padding: 12px;
+    margin: 5px;
+    width: 150px;
+}
+#p{
+    font-size: 20;
+    font-family:sans-serif;
+    text-align: justify;
+}
+#expo{
+    text-align: center;
+    font-size: 25;
+    font-family:sans-serif;
+}
+.imgs{
+    text-align: center;
+    border: 3px crimson solid;
+    padding: 6px;
+    margin: 20px;
+    width: %;
+    display: inline-block;
+    font-family:sans-serif;
+}

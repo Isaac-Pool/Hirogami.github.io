@@ -1,0 +1,27 @@
+#texto{
+    text-align: justify;
+    font-family: sans-serif;
+    text-align: justify;
+    font-size: 20;
+    
+}
+#bchina{
+    float: right;
+    padding: 12px;
+    margin: 12px;
+    width: 250px;
+    clear: both;
+}
+#bjapon{
+    float: left;
+    padding: 15px;
+    margin: 5px;
+    width: 250px;
+    clear: both;
+    text-align: justify;
+}
+#titulo1{
+    color: firebrick;
+    text-align: center;
+    font-size: 40;
+}

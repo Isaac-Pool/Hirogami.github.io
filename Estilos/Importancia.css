@@ -1,0 +1,30 @@
+.p{
+     font-size: 20;
+    font-family:sans-serif;
+    text-align: justify;
+}
+#h1{
+    color: firebrick;
+    text-align: center;
+    font-size: 40;
+}
+
+#img1{
+   float: left;
+    padding: 12px;
+    margin: 5px;
+    width: 150px; 
+}
+#img2{
+   float: right;
+    padding: 12px;
+    margin: 5px;
+    width: 150px; 
+}
+.subt{
+    clear: both;
+    font-size: 25;
+    font-family:sans-serif;
+    text-align: justify;
+}
+
